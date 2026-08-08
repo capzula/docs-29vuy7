@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-g92jxu.goib138.site/sitemap.xml
